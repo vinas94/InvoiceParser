@@ -1,0 +1,8 @@
+{
+  "service_account_key": "bar-intelligence-dd32c2d5f9a6.json",
+  "endpoint": "eu-documentai.googleapis.com",
+  "processor_name": "projects/750075009079/locations/eu/processors/5bf8598a56df679e",
+  "mime_type": "application/pdf",
+  "input_dir": "data/inputs",
+  "output_dir": "data/outputs"
+}
